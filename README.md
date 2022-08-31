@@ -1,2 +1,2 @@
 # BookStore
-Library program with Book &amp; Student objects
+Library program with Book objects
